@@ -1,0 +1,127 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="Kotlin_Koans-b7b5f11">
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" protocol="file" />
+      <jump line="3" column="27" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/String templates/src/Task.kt" protocol="file" />
+      <jump line="2" column="30" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/String templates/src/Task.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Hello, world/test/tests.kt" protocol="file" />
+      <jump line="0" column="61" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/String templates/src/Task.kt" protocol="file" />
+      <jump line="2" column="2" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" protocol="file" />
+      <jump line="3" column="12" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" protocol="file" />
+      <jump line="2" column="31" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nothing type/src/Task.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Lambdas/src/Task.kt" protocol="file" />
+      <jump line="1" column="25" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Lambdas/src/Task.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar!/kotlin/collections/CollectionsKt.class" protocol="jar" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="4" column="1" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="7" column="32" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="3" column="29" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+      <jump line="2" column="26" filename="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt" timestamp="1750114893953">
+        <mark key="&quot;" line="5" column="51" />
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Hello, world/test/tests.kt" timestamp="1750115310835">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt" timestamp="1750192023601">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/String templates/src/Task.kt" timestamp="1750115488132">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Lambdas/src/Task.kt" timestamp="1750191963329">
+        <mark key="&quot;" line="1" column="36" />
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar!/kotlin/collections/CollectionsKt.class" timestamp="1750191893042">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" timestamp="1750183357281">
+        <mark key="&quot;" line="4" column="46" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/Kotlin Koans/Introduction/Nothing type/src/Task.kt" timestamp="1750183418291">
+        <mark key="&quot;" line="2" column="42" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="31" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">KEpBTnxGRUJ8TUFSfEFQUnxNQVl8SlVOfEpVTHxBVUd8U0VQfE9DVHxOT1Z8REVDKQ==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ZmluYWwgbmFtZSA6IFN0cmluZwo=</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ZmluYWwgbmFtZSA6IFN0cmluZwo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICBjbGllbnQK</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">U3RyaW5nIA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">bmFtZSA6IFN0cmluZyA7Ow==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

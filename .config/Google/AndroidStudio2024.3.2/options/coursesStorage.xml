@@ -1,0 +1,16 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="Kotlin Koans are a series of exercises to get you familiar with the Kotlin syntax" />
+        <option name="id" value="16628" />
+        <option name="location" value="$USER_HOME$/StudioProjects/Kotlin Koans" />
+        <option name="name" value="Kotlin Koans" />
+        <option name="tasksSolved" value="8" />
+        <option name="tasksTotal" value="43" />
+        <option name="type" value="Marketplace" />
+        <option name="programmingLanguageId" value="kotlin" />
+      </course>
+    </courses>
+  </component>
+</application>

@@ -1,0 +1,137 @@
+{
+  "toplevel": [
+    {
+      "uuid": "set-as-background.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "90_new-workspace.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "sample.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "set-resolution.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "add-desklets.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "90_new-launcher.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "91_delete-workspace.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "92_show-expo.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "copy-path-to-clipboard@claudiux.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "cinnamon-take-screenshot@duracell80.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "clone-git-repo@anaximeno.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "convert-file@thigschuch.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "compile-run-gcc@anticitizn.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "warpinator-send.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "mintstick-verify.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "mintstick.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "mintstick-format.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "change-background.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    },
+    {
+      "uuid": "mount-archive.nemo_action",
+      "type": "action",
+      "user-label": null,
+      "user-icon": null,
+      "accelerator": null
+    }
+  ]
+}

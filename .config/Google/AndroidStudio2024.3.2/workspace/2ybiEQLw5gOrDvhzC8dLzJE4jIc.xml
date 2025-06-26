@@ -1,0 +1,415 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Kotlin Koans" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3pjjzcude9sgh" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/Data classes/src/Task.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="44">
+                <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Task.kt","foregroundColor":-1320014,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"fb4934"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Kotlin": {
+      "usageCount": 12,
+      "lastUsed": 1750191963487
+    },
+    "CLASS": {
+      "usageCount": 2,
+      "lastUsed": 1750191889601
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Hello, world/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Named arguments/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Default arguments/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Triple-quoted strings/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/String templates/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Nullable types/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Nothing type/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Introduction/Lambdas/src/Task.kt",
+    "/home/uis/StudioProjects/Kotlin Koans/Classes/Data classes/src/Task.kt"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="12" lastUsage="1750191963487" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans}" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes}" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes}" type="d53b8fed:LessonNode" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Data classes/src}" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Kotlin_Koans" />
+            <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="Kotlin Koans" />
+              <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans}" type="ed842865:CourseNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Introduction" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Introduction" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Introduction}" type="d53b8fed:LessonNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Classes" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Classes" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes}" type="d53b8fed:LessonNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Classes/Data classes/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Data classes/src}" type="4928525d:TaskNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Task.kt" />
+                    <item name="Task.kt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Classes/Smart casts/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Smart casts/src}" type="4928525d:TaskNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Classes/Sealed classes/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Sealed classes/src}" type="4928525d:TaskNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Classes/Rename on import/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Rename on import/src}" type="4928525d:TaskNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Classes/Extension functions/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Classes/Extension functions/src}" type="4928525d:TaskNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Conventions" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Conventions" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Conventions}" type="d53b8fed:LessonNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Collections" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Collections" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Collections}" type="d53b8fed:LessonNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Properties" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Properties" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Properties}" type="d53b8fed:LessonNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Builders" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Builders" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Builders}" type="d53b8fed:LessonNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Generics" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Generics" />
+                <item name="dir{file:///home/uis/StudioProjects/Kotlin Koans/Generics}" type="d53b8fed:LessonNode" />
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Default_arguments_test' - 2025.06.16 at 23h 57m 14s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Default_arguments.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Lambdas_test' - 2025.06.17 at 21h 25m 34s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Lambdas.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Nothing_type_test' - 2025.06.17 at 19h 03m 34s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Nothing_type.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Nullable_types_test' - 2025.06.17 at 00h 19m 30s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Nullable_types.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Nullable_types_test' - 2025.06.17 at 00h 21m 30s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Nullable_types.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-String_templates_test' - 2025.06.17 at 00h 04m 58s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-String_templates.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-String_templates_test' - 2025.06.17 at 00h 05m 45s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-String_templates.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-String_templates_test' - 2025.06.17 at 00h 11m 24s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-String_templates.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Triple-quoted_strings_test' - 2025.06.17 at 00h 01m 08s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Triple-quoted_strings.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Kotlin_Koans_Introduction-Triple-quoted_strings_test' - 2025.06.17 at 00h 01m 30s.xml">
+      <configuration name="Tests in 'Kotlin_Koans.Introduction-Triple-quoted_strings.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12994792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" show_stripe_button="false" weight="0.32999998" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.2502604" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.2502604" />
+      <window_info active="true" anchor="right" id="Task" order="6" visible="true" weight="0.36901042" />
+      <window_info anchor="right" id="Assistant" order="7" weight="0.2408854" />
+      <unified_weights bottom="0.32999998" left="0.12994792" right="0.36901042" />
+    </layoutV2>
+    <recentWindows>
+      <value>Task</value>
+      <value>Educational.CheckDetails</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>StudioBot</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="737" y="120" width="918" height="860" key="#Kotlin" timestamp="1750114539357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="120" width="918" height="860" key="#Kotlin/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750114539357" />
+    <state x="705" y="390" width="509" height="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1750114179719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="705" y="390" width="509" height="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750114179719" />
+    <state x="548" y="291" width="824" height="518" key="IDE.errors.dialog" timestamp="1750115804199">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="291" width="824" height="518" key="IDE.errors.dialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750115804199" />
+    <state x="3239" y="830" width="572" height="192" key="ProcessPopupWindow" timestamp="1750112646877">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3239" y="830" width="572" height="192" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1750112646877" />
+    <state x="469" y="177" key="SettingsEditor" timestamp="1750115243493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="177" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750115243493" />
+    <state x="698" y="259" width="524" height="582" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1750114977663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="259" width="524" height="582" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750114977663" />
+    <state x="623" y="256" width="672" height="684" key="search.everywhere.popup" timestamp="1750114335045">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="256" width="672" height="684" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1750114335045" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Introduction/Hello, world/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="22">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="22">
+            <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state>
+            <caret column="38" selection-start-column="38" selection-end-column="38" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="110">
+            <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Hello, world/test/tests.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/String templates/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="44">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="88">
+            <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar!/kotlin/collections/CollectionsKt.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="22">
+            <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Data classes/src/Task.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

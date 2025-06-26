@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="WelcomeScreen.Plugins" />
+    </ids>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="Swing" />
+    <option name="uiLibraryChangedByUser" value="false" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 24.0.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-24.0.1" />
+        <option name="sha256" value="5d78a1c35dc36b5435addd908f5bc8d714368635b5adc6fd0ea6784d4d00db83" />
+        <option name="url" value="https://download.java.net/java/GA/jdk24.0.1/24a58e0e276943138bf3e963e6291ac2/9/GPL/openjdk-24.0.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="24.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "GradleSupport.showInternalTestNodes": "false",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "koans",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MarketplacePluginsSearchHistory": "jetbrains\njetb\njet\nj\nvim",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "consoleView",
+    "com.jetbrains.edu.LAST_UPDATE": "1750109566032",
+    "com.jetbrains.edu.Marketplace.Solution.Sharing.Prompt.Count": "1",
+    "com.jetbrains.edu.Marketplace.Solution.Sharing.Prompt.Shown.At": "1750112646863",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "edu.ui.onboarding.tour.shown": "true",
+    "enter_selection_count": "3",
+    "experimental.ui.used.version": "243.26053.27.2432.13536105",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Educational.Hints.GetHint.got.it.tooltip": "1",
+    "got.it.tooltip.ai.translation.tooltip": "1",
+    "got.it.tooltip.edu.ai.theory.lookup.tooltip": "1",
+    "ideavim.statistics.timestamp": "1750114871118",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.26053.27.2432.13536105-AS",
+    "kotlin.lastUpdateCheck": "1750111795280",
+    "kotlin.updates.whats.new.shown.for": "2.0.21",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Gruvbox Dark Soft",
+    "questionnaireAdvertisingNotification": "true",
+    "registry.to.advanced.settings.migration.build": "AI-243.26053.27.2432.13536105",
+    "tab_selection_count": "2"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

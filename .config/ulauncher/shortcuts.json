@@ -1,0 +1,42 @@
+{
+    "6e75a063-7b1e-4ee7-b1c2-7744cf576bf7": {
+        "id": "6e75a063-7b1e-4ee7-b1c2-7744cf576bf7",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1746554206.1176195
+    },
+    "243fa851-e1fe-4048-8c9d-dc5849e712cb": {
+        "id": "243fa851-e1fe-4048-8c9d-dc5849e712cb",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "https://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1746554206.117637
+    },
+    "4be590cf-341f-40f7-b562-369690789299": {
+        "id": "4be590cf-341f-40f7-b562-369690789299",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1746554206.1176486
+    },
+    "77048939-9e6b-4b23-9730-71769991cf8e": {
+        "id": "77048939-9e6b-4b23-9730-71769991cf8e",
+        "name": "perplexity",
+        "keyword": "p",
+        "cmd": "https://www.perplexity.ai/search?q=%s",
+        "icon": "~/Downloads/Perplexity-logo-2048x2048.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1746554366.2987332
+    }
+}

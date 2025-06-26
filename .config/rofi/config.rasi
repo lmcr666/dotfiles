@@ -1,0 +1,12 @@
+configuration{
+  display-drun: " 󰶭 ";
+  display-window: "  ";
+  display-filebrowser: "  ";
+  display-run: "  ";
+  drun-display-format: "{icon} {name}";
+  font: "0xProto Nerd Font Regular 10";
+  modi: "drun,filebrowser,run,window";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"

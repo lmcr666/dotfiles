@@ -1,0 +1,6 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.1.64\",\"app_state\":\"MISSING\",\"created_timestamp\":1748812966,\"device_id\":\"d4f82928-eea8-2928-eea8-163c314a53bb30c\",\"dial_location_url\":\"http://192.168.1.64:56790/dd.xml\",\"display_name\":\"VFPT-STB-620203337986\",\"last_seen\":1749064846,\"manufacturer\":\"\",\"model_name\":\"Vodafone_Premium VF-PT Model\",\"product_cap\":\"\",\"public_ip\":\"94.63.23.155\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"000000000000\",\"port\":9,\"retries\":80}},{\"address\":\"192.168.1.204\",\"app_state\":\"INSTALLABLE\",\"created_timestamp\":1748812966,\"device_id\":\"4e31d911-2d05-4db1-8b08-62d36f38cdeb\",\"dial_location_url\":\"http://192.168.1.112:1426/\",\"display_name\":\"[LG] webOS TV UQ80006LD\",\"last_seen\":1749064846,\"manufacturer\":\"LG\",\"model_name\":\"55UQ80006LD\",\"product_cap\":\"\",\"public_ip\":\"94.63.23.155\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"74e6b8c23a5a\",\"port\":9,\"retries\":480}}]"
+audio.play_bitrate_non_metered_migrated=true
+ui.track_notifications_enabled=false
+app.browser.zoom-level=-150
+app.player.volume=26211

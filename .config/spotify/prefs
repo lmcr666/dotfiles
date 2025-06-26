@@ -1,0 +1,15 @@
+autologin.saved_credentials="{\"lmcr666\":[\"lmcr666\",\"mMZO60wXbNyb7OJ0ZouUuGFWcaoVuF65Q7qHx5zrzWIVjlpKqtPX5Dd/lHgk01hBmkIBNogHd391SNyKb5bdABWiJM4k5WVAc5CXbFmKdDPRlYlyTkbDOA9M7uZXHntOtqQOuizC8SbMQQ7OK9zLxYv+qwdRrnCGjYj4wfOwNuusOTVVzfvN/Ow/VUwFSyGqzhuiOriHccHlzOawxBDwjFMumcrctjpThTCnRswHKD7M5RPlp46z4wSZ8lu+Eu7B\"]}"
+autologin.blob="mMZO60wXbNyb7OJ0ZouUuGFWcaoVuF65Q7qHx5zrzWIVjlpKqtPX5Dd/lHgk01hBmkIBNogHd391SNyKb5bdABWiJM4k5WVAc5CXbFmKdDPRlYlyTkbDOA9M7uZXHntOtqQOuizC8SbMQQ7OK9zLxYv+qwdRrnCGjYj4wfOwNuusOTVVzfvN/Ow/VUwFSyGqzhuiOriHccHlzOawxBDwjFMumcrctjpThTCnRswHKD7M5RPlp46z4wSZ8lu+Eu7B"
+autologin.username="lmcr666"
+app.window.state.saved=true
+app.window.position.width=800
+app.rollback-to-sc=true
+es.send-on-startup=true
+core.clock_delta=5
+app.window.position.saved=true
+app.window.position.height=600
+app.window.position.y=252
+storage.last-location="/home/uis/.cache/spotify/Storage"
+app.window.position.x=2136
+autologin.canonical_username="lmcr666"
+app.last-launched-version="1.2.60.564.gcc6305cb"
