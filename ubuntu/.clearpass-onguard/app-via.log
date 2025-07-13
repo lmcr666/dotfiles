@@ -1,0 +1,704 @@
+Jul 11 14:28:56.154 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:28:56.154 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:28:56.154 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:29:52.214 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:29:52.214 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:29:52.214 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:29:54.244 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:29:54.245 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:29:54.245 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:30:50.323 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:30:50.323 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:30:50.323 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:30:52.407 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:30:52.408 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:30:52.408 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:31:48.513 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:31:48.513 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:31:48.513 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:31:50.573 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:31:50.574 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:31:50.574 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:32:46.623 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:32:46.623 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:32:46.624 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:32:48.638 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:32:48.638 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:32:48.639 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:33:44.749 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:33:44.749 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 14:33:44.749 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:33:44.749 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:33:44.749 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:33:44.750 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:33:46.797 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:33:46.797 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 14:33:46.797 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:33:46.797 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:33:46.797 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:33:46.798 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:34:42.996 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:34:42.997 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:34:42.997 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:34:44.963 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:34:44.964 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:34:44.964 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:35:41.019 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:35:41.019 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:35:41.019 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:35:43.019 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:35:43.019 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:35:43.019 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:36:39.138 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:36:39.138 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:36:39.138 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:36:41.119 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:36:41.119 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:36:41.119 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:37:37.297 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:37:37.298 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:37:37.298 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:37:42.139 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:37:42.140 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:37:42.140 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:38:24.177 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:38:24.177 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:38:24.177 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:38:37.210 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:38:37.210 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:38:37.210 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:39:23.315 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:39:23.315 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:39:23.315 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:39:35.313 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:39:35.313 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:39:35.313 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:40:21.425 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:40:21.426 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:40:21.426 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:40:33.438 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:40:33.439 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:40:33.439 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:41:19.520 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:41:19.520 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:41:19.520 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:41:31.513 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:41:31.513 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:41:31.513 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:42:17.682 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:42:17.682 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:42:17.683 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:42:29.661 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:42:29.661 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:42:29.662 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:43:15.732 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:43:15.733 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:43:15.733 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:43:27.793 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:43:27.794 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:43:27.794 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:44:13.815 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:44:13.815 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:44:13.815 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:44:13.815 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 14:44:13.815 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:44:13.816 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:44:22.916 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:44:22.916 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 14:44:22.916 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:44:22.916 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:44:22.916 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:44:22.918 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:45:09.098 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:45:09.099 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:45:09.099 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:45:21.079 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:45:21.079 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:45:21.079 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:46:04.192 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:46:04.192 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:46:04.192 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:46:19.144 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:46:19.144 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:46:19.145 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:47:00.271 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:47:00.271 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:47:00.271 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:47:17.230 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:47:17.230 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:47:17.230 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:48:03.247 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:48:03.248 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:48:03.248 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:48:15.369 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:48:15.369 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:48:15.370 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:49:01.448 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:49:01.448 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:49:01.448 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:49:13.411 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:49:13.411 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:49:13.411 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:49:59.504 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:49:59.504 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:49:59.504 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:50:11.619 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:50:11.619 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:50:11.619 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:50:57.778 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:50:57.779 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:50:57.779 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:51:09.712 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:51:09.712 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:51:09.712 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:51:55.838 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:51:55.838 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:51:55.838 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:52:07.820 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:52:07.820 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:52:07.820 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:52:54.004 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:52:54.004 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:52:54.004 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:53:05.916 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:53:05.916 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:53:05.916 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:53:52.062 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:53:52.062 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:53:52.062 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:54:04.047 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:54:04.047 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:54:04.047 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:54:50.105 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:54:50.105 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 14:54:50.105 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:54:50.105 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:54:50.106 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:54:50.108 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:55:02.208 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:55:02.208 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 14:55:02.208 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:55:02.208 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:55:02.208 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 14:55:02.209 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 14:55:48.342 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:55:48.342 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:55:48.342 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:56:00.373 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:56:00.373 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:56:00.373 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:56:46.418 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:56:46.418 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:56:46.418 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:56:58.434 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:56:58.435 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:56:58.435 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:57:44.516 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:57:44.516 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:57:44.517 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:57:56.600 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:57:56.601 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:57:56.601 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:58:42.704 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:58:42.704 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:58:42.704 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:58:54.765 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:58:54.766 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:58:54.766 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:59:40.812 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 14:59:40.812 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:59:40.812 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 14:59:52.827 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 14:59:52.827 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 14:59:52.827 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:00:39.005 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:00:39.006 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:00:39.006 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:00:50.938 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:00:50.938 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:00:50.938 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:01:37.058 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:01:37.058 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:01:37.058 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:01:49.141 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:01:49.142 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:01:49.142 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:02:35.335 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:02:35.335 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:02:35.335 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:02:47.235 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:02:47.235 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:02:47.235 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:03:33.396 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:03:33.396 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:03:33.396 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:03:45.377 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:03:45.378 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:03:45.378 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:04:31.765 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:04:31.765 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:04:31.765 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:04:43.442 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:04:43.442 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:04:43.442 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:05:29.531 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:05:29.531 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 15:05:29.531 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:05:29.531 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:05:29.531 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:05:29.532 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:05:41.602 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:05:41.602 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 15:05:41.602 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:05:41.602 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:05:41.603 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:05:41.605 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:06:27.633 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:06:27.633 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:06:27.633 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:06:39.665 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:06:39.665 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:06:39.665 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:07:25.771 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:07:25.771 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:07:25.771 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:07:37.829 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:07:37.829 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:07:37.829 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:08:24.012 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:08:24.012 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:08:24.012 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:08:35.993 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:08:35.993 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:08:35.994 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:09:22.072 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:09:22.072 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:09:22.073 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:09:34.039 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:09:34.040 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:09:34.040 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:10:20.238 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:10:20.238 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:10:20.238 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:10:32.130 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:10:32.130 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:10:32.130 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:11:18.299 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:11:18.300 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:11:18.300 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:11:23.214 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:11:23.214 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:11:23.214 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:12:14.332 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:12:14.332 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:12:14.333 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:12:21.334 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:12:21.334 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:12:21.334 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:13:12.429 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:13:12.429 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:13:12.429 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:13:19.439 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:13:19.440 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:13:19.440 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:14:10.639 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:14:10.639 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:14:10.640 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:14:17.535 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:14:17.535 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:14:17.535 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:15:08.627 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:15:08.627 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:15:08.627 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:15:15.663 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:15:15.663 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:15:15.663 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:16:06.729 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:16:06.729 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 15:16:06.729 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:16:06.729 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:16:06.729 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:16:06.732 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:16:13.830 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:16:13.831 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 15:16:13.831 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:16:13.831 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:16:13.831 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:16:13.833 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:17:05.021 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:17:05.021 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:17:05.021 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:17:11.991 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:17:11.991 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:17:11.991 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:18:03.023 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:18:03.023 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:18:03.023 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:18:10.055 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:18:10.056 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:18:10.056 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:19:01.254 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:19:01.254 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:19:01.254 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:19:08.217 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:19:08.217 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:19:08.217 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:19:57.777 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:19:57.777 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:19:57.777 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:20:09.762 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:20:09.762 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:20:09.762 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:20:55.841 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:20:55.841 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:20:55.842 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:21:07.823 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:21:07.823 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:21:07.823 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:21:55.034 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:21:55.035 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:21:55.035 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:22:07.113 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:22:07.113 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:22:07.113 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:22:50.725 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:22:50.726 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:22:50.726 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:23:07.735 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:23:07.735 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:23:07.735 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:23:48.901 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:23:48.901 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:23:48.901 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:24:05.822 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:24:05.822 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:24:05.822 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:24:46.917 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:24:46.918 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:24:46.918 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:25:03.924 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:25:03.924 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:25:03.925 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:25:45.127 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:25:45.128 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:25:45.128 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:26:02.025 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:26:02.025 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:26:02.025 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:26:43.191 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:26:43.191 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 15:26:43.191 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:26:43.191 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:26:43.191 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:26:43.193 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:27:00.120 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:27:00.121 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 15:27:00.121 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:27:00.121 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:27:00.121 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:27:00.122 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:27:41.222 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:27:41.222 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:27:41.222 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:27:58.227 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:27:58.228 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:27:58.228 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:28:44.247 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:28:44.247 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:28:44.248 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:28:56.316 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:28:56.317 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:28:56.317 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:29:42.424 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:29:42.424 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:29:42.425 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:29:54.475 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:29:54.475 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:29:54.476 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:30:40.520 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:30:40.520 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:30:40.520 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:30:52.527 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:30:52.528 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:30:52.528 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:31:38.620 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:31:38.620 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:31:38.620 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:31:50.616 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:31:50.616 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:31:50.616 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:32:36.778 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:32:36.779 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:32:36.779 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:32:48.763 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:32:48.763 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:32:48.763 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:33:34.842 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:33:34.842 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:33:34.842 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:33:46.921 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:33:46.921 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:33:46.921 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:34:33.022 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:34:33.023 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:34:33.023 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:34:45.191 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:34:45.192 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:34:45.192 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:35:31.271 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:35:31.271 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:35:31.271 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:35:43.250 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:35:43.250 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:35:43.250 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:36:29.333 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:36:29.333 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:36:29.333 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:36:41.415 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:36:41.415 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:36:41.415 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:37:27.598 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:37:27.598 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 15:37:27.598 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:37:27.598 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:37:27.598 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:37:27.600 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:37:39.514 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:37:39.514 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 15:37:39.514 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:37:39.515 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:37:39.515 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:37:39.517 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:38:25.617 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:38:25.618 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:38:25.618 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:38:37.639 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:38:37.640 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:38:37.640 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:39:23.825 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:39:23.825 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:39:23.825 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:39:35.805 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:39:35.805 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:39:35.805 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:40:21.988 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:40:21.989 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:40:21.989 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:40:33.966 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:40:33.966 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:40:33.966 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:41:20.049 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:41:20.050 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:41:20.050 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:41:32.031 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:41:32.031 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:41:32.032 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:42:18.212 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:42:18.213 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:42:18.213 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:42:30.196 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:42:30.197 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:42:30.197 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:43:16.276 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:43:16.276 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:43:16.276 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:43:28.359 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:43:28.360 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:43:28.360 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:44:14.438 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:44:14.438 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:44:14.438 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:44:26.522 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:44:26.522 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:44:26.522 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:45:07.922 [VIA DEBUG IPC_IFACE_server_recv_event():ipc_iface.c:518] Have an IPC event coming (ipc=via-ipc-ui)
+Jul 11 15:45:07.923 [VIA INFO handleEvent():core/IpcServer.cpp:388] IPC event handler: EVENT_VPN_NTF_NET_CATEGORY
+Jul 11 15:45:07.923 [VIA INFO handleEvent():core/IpcServer.cpp:430] IPC event handler: Event args [0]
+Jul 11 15:45:07.923 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:45:09.224 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Interface Up: IfName=br-07a3f309493e IfNameReal=br-07a3f309493e IfType=OTHER DisplayName=br-07a3f309493e MAC=fa26783783ae IP=172.18.0.1
+Jul 11 15:45:09.224 [VIA INFO NewInterface():OnGuardConnector.cpp:833] OG: NewInterface Name=br-07a3f309493e, Type=OTHER
+Jul 11 15:45:09.224 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Detected New Interface: IfName=br-07a3f309493e IfNameReal=br-07a3f309493e IfType=OTHER DisplayName=br-07a3f309493e MAC=fa26783783ae IP=172.18.0.1 IPv6=False
+Jul 11 15:45:09.224 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:45:09.224 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: NewInterface (18)
+Jul 11 15:45:09.224 [VIA DEBUG On_StateChanged():HealthForm.cpp:136] OG: State Changed, existing=0, new=0
+Jul 11 15:45:09.224 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:45:09.224 [VIA INFO ShowManagedAction():OnGuardConnector.cpp:1070] OG: ShowManagedAction source=br-07a3f309493e,show=show
+Jul 11 15:45:09.225 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:45:09.227 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:45:09.227 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: ShowManagedAction (15)
+Jul 11 15:45:12.702 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:45:12.702 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:45:12.702 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:45:24.613 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:45:24.613 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:45:24.613 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:45:36.357 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:45:36.357 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=br-07a3f309493e: ClearPass Server is not reachable.
+Jul 11 15:45:36.357 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:45:36.357 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:45:36.357 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:45:36.359 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:46:07.422 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:46:07.422 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:46:07.423 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:46:24.411 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:46:24.412 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:46:24.412 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:46:34.412 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:46:34.413 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:46:34.413 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:47:05.552 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:47:05.553 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:47:05.553 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:47:19.454 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:47:19.454 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:47:19.454 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:47:32.585 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:47:32.586 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:47:32.586 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:48:03.712 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:48:03.713 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 11 15:48:03.713 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:48:03.713 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:48:03.713 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:48:03.716 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:48:20.708 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:48:20.708 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 11 15:48:20.708 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:48:20.708 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:48:20.708 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:48:20.711 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:48:30.746 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:48:30.747 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:48:30.747 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:49:01.880 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:49:01.880 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:49:01.880 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:49:18.807 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:49:18.808 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:49:18.808 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:49:28.812 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:49:28.813 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:49:28.813 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:49:59.939 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:49:59.940 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:49:59.940 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:50:16.913 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:50:16.913 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:50:16.913 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:50:27.075 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:50:27.075 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:50:27.076 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:50:58.211 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:50:58.211 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:50:58.211 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:51:15.110 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:51:15.110 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:51:15.110 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:51:25.134 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:51:25.135 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:51:25.135 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:51:56.203 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:51:56.203 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:51:56.203 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:52:13.206 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:52:13.206 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:52:13.206 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:52:23.217 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:52:23.217 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:52:23.217 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:52:54.303 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:52:54.304 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:52:54.304 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:53:11.307 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:53:11.307 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:53:11.307 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:53:21.364 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 11 15:53:21.365 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:53:21.365 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:53:52.493 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 11 15:53:52.494 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:53:52.494 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:54:09.405 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 11 15:54:09.405 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 11 15:54:09.405 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 11 15:54:11.600 [VIA DEBUG IPC_IFACE_server_recv_event():ipc_iface.c:518] Have an IPC event coming (ipc=via-ipc-ui)
+Jul 11 15:54:11.600 [VIA INFO handleEvent():core/IpcServer.cpp:388] IPC event handler: EVENT_VPN_NTF_NET_CATEGORY
+Jul 11 15:54:11.601 [VIA INFO handleEvent():core/IpcServer.cpp:430] IPC event handler: Event args [0]
+Jul 11 15:54:11.601 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:54:12.882 [VIA INFO ShowManagedAction():OnGuardConnector.cpp:1070] OG: ShowManagedAction source=wlp0s20f3,show=no show
+Jul 11 15:54:12.883 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: ShowManagedAction (15)
+Jul 11 15:54:12.884 [VIA INFO InterfaceDown():OnGuardConnector.cpp:894] OG: InterfaceDown Name=wlp0s20f3
+Jul 11 15:54:12.884 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: InterfaceDown (0)
+Jul 11 15:54:12.885 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=Interface Down: wlp0s20f3
+Jul 11 15:54:12.885 [VIA DEBUG On_StateChanged():HealthForm.cpp:136] OG: State Changed, existing=0, new=1
+Jul 11 15:54:12.885 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 11 15:54:12.885 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 11 15:54:12.889 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:49:59.861 [VIA INFO InterfaceDown():OnGuardConnector.cpp:894] OG: InterfaceDown Name=wlp0s20f3
+Jul 13 11:49:59.862 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: InterfaceDown (0)
+Jul 13 11:49:59.863 [VIA DEBUG On_StateChanged():HealthForm.cpp:136] OG: State Changed, existing=1, new=1
+Jul 13 11:49:59.881 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 13 11:49:59.883 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=docker0: ClearPass Server is not reachable.
+Jul 13 11:49:59.885 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:49:59.886 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:49:59.886 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:49:59.888 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:03.809 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 13 11:50:03.810 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=br-07a3f309493e: ClearPass Server is not reachable.
+Jul 13 11:50:03.810 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:50:03.810 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:50:03.810 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:50:03.812 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:07.068 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Interface Up: IfName=wlp0s20f3 (IPv6) IfNameReal=wlp0s20f3 IfType=WIRELESS DisplayName=wlp0s20f3 MAC=78af08e2e05a IP=2001:818:dcfc:8100:e01d:27e0:ae86:c7f4
+Jul 13 11:50:07.068 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:50:07.068 [VIA INFO NewInterface():OnGuardConnector.cpp:833] OG: NewInterface Name=wlp0s20f3 (IPv6), Type=WIRELESS
+Jul 13 11:50:07.068 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Detected New Interface: IfName=wlp0s20f3 (IPv6) IfNameReal=wlp0s20f3 IfType=WIRELESS DisplayName=wlp0s20f3 MAC=78af08e2e05a IP=2001:818:dcfc:8100:e01d:27e0:ae86:c7f4 IPv6=True
+Jul 13 11:50:07.069 [VIA INFO ShowManagedAction():OnGuardConnector.cpp:1070] OG: ShowManagedAction source=wlp0s20f3 (IPv6),show=show
+Jul 13 11:50:07.070 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:07.071 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: NewInterface (18)
+Jul 13 11:50:07.071 [VIA DEBUG On_StateChanged():HealthForm.cpp:136] OG: State Changed, existing=1, new=0
+Jul 13 11:50:07.071 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:50:07.071 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: ShowManagedAction (15)
+Jul 13 11:50:07.072 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:07.074 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:07.628 [VIA DEBUG IPC_IFACE_server_recv_event():ipc_iface.c:518] Have an IPC event coming (ipc=via-ipc-ui)
+Jul 13 11:50:07.628 [VIA INFO handleEvent():core/IpcServer.cpp:388] IPC event handler: EVENT_VPN_NTF_NET_CATEGORY
+Jul 13 11:50:07.628 [VIA INFO handleEvent():core/IpcServer.cpp:430] IPC event handler: Event args [0]
+Jul 13 11:50:07.629 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:09.170 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Interface Up: IfName=wlp0s20f3 IfNameReal=wlp0s20f3 IfType=WIRELESS DisplayName=wlp0s20f3 MAC=78af08e2e05a IP=192.168.1.218
+Jul 13 11:50:09.171 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:50:09.171 [VIA INFO ShowManagedAction():OnGuardConnector.cpp:1070] OG: ShowManagedAction source=wlp0s20f3,show=show
+Jul 13 11:50:09.172 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:50:09.173 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: ShowManagedAction (15)
+Jul 13 11:50:39.177 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=wlp0s20f3
+Jul 13 11:50:39.177 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=2,msg=wlp0s20f3: ClearPass Server is not reachable.
+Jul 13 11:50:39.177 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:50:39.177 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:50:39.177 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 11:50:39.179 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:51:00.191 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 13 11:51:00.191 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:51:00.191 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:51:05.187 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=br-07a3f309493e
+Jul 13 11:51:05.187 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:51:05.187 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:51:30.196 [VIA INFO AuthServerAvailable():OnGuardConnector.cpp:924] OG: AuthServerAvailable  on adapter=docker0
+Jul 13 11:51:30.196 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: AuthServerAvailable (8)
+Jul 13 11:51:30.197 [VIA DEBUG On_Unreachable():HealthForm.cpp:123] On_Unreachable
+Jul 13 11:51:36.874 [VIA DEBUG IPC_IFACE_server_recv_event():ipc_iface.c:518] Have an IPC event coming (ipc=via-ipc-ui)
+Jul 13 11:51:36.874 [VIA INFO handleEvent():core/IpcServer.cpp:388] IPC event handler: EVENT_VPN_NTF_NET_CATEGORY
+Jul 13 11:51:36.874 [VIA INFO handleEvent():core/IpcServer.cpp:430] IPC event handler: Event args [0]
+Jul 13 11:51:36.874 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 11:51:38.063 [VIA INFO ShowManagedAction():OnGuardConnector.cpp:1070] OG: ShowManagedAction source=wlp0s20f3,show=no show
+Jul 13 11:51:38.064 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: ShowManagedAction (15)
+Jul 13 12:39:09.227 [VIA DEBUG IPC_IFACE_server_recv_event():ipc_iface.c:518] Have an IPC event coming (ipc=via-ipc-ui)
+Jul 13 12:39:09.227 [VIA INFO handleEvent():core/IpcServer.cpp:388] IPC event handler: EVENT_VPN_NTF_NET_CATEGORY
+Jul 13 12:39:09.227 [VIA INFO handleEvent():core/IpcServer.cpp:430] IPC event handler: Event args [0]
+Jul 13 12:39:09.227 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 12:39:10.151 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Interface Up: IfName=wlp0s20f3 IfNameReal=wlp0s20f3 IfType=WIRELESS DisplayName=wlp0s20f3 MAC=78af08e2e05a IP=192.168.1.218
+Jul 13 12:39:10.152 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 12:39:10.154 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
+Jul 13 12:39:11.053 [VIA INFO DiagnosticLogMessage():OnGuardConnector.cpp:1140] OG: DiagnosticLogMessage level=0,msg=Interface Up: IfName=wlp0s20f3 (IPv6) IfNameReal=wlp0s20f3 IfType=WIRELESS DisplayName=wlp0s20f3 MAC=78af08e2e05a IP=2001:818:dcfc:8100:e01d:27e0:ae86:c7f4
+Jul 13 12:39:11.053 [VIA INFO __ProcessEvent():OnGuardConnector.cpp:374] OG: PluginEvent: DiagnosticLogMessage (24)
+Jul 13 12:39:11.055 [VIA DEBUG setOnGuardTrayIcon():ViaMainWindow.cpp:886] ||ViaState=,OgState=OgTrayStateUnknown,Icon=default||
